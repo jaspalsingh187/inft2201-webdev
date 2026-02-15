@@ -1,3 +1,7 @@
+INFT2201 Mail API Assignment  
+Student: Jaspal Singh  
+Professor: Sohaib Mohiuddin  
+
 # lapp-stack-demo
 
 ## **Upgraded README.md**
